@@ -1,5 +1,5 @@
 # Coursera Assignments
-This repository aims to help Coursera learners who have difficulty completing some assignments. In addition, I also use this repository to mark some useful code snippet, classic cases or impressive tricks when learning on Coursera.
+This repository aims to help Coursera learners who have difficulty completing some assignments. In addition, I also use this repository to mark some useful code snippet, classic cases or impressive tricks which I met when learning on Coursera.
  All the quizs and assignments are belong to Coursera. Please do not use them for any other purposes.
 
 - [Machine Learning (Stanford University)](./Machine_Learning)
